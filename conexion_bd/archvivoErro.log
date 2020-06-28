@@ -10,3 +10,67 @@
 06/28/2020 10:26 AM: INFO [Connection.py:50] Inicio para cerrar la conexion  
 06/28/2020 10:26 AM: INFO [Connection.py:51] <cursor object at 0x03532228; closed: -1> 
 06/28/2020 10:26 AM: INFO [PersonaDao.py:53] Termina Insert 
+06/28/2020 11:41 AM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 11:41 AM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 11:41 AM: ERROR [CursorPool.py:20] Error exception 'psycopg2.extensions.cursor' object has no attribute 'excecute' 
+06/28/2020 12:02 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:02 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:02 PM: ERROR [CursorPool.py:20] Error exception 'psycopg2.extensions.cursor' object has no attribute 'excecute' 
+06/28/2020 12:03 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:03 PM: INFO [CursorPool.py:30] [(1, 'Juan', 'Perez', 'jperez@mail.com'), (2, 'Carlos', 'Aristizabal', 'caristi@mail.com'), (3, 'Karla', 'Garcia', 'kgarcia'), (5, 'CARLOS H', 'CANO', 'CCANO@MAIL.COM'), (8, 'CARLOS HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (9, 'CARLOS HUGO', 'CANO', 'CCANO@MAIL.COM'), (10, 'CARLOS MARIO', 'CANO', 'CCANO@MAIL.COM'), (4, 'HUGO', 'CANO', 'CCANO@MAIL.COM'), (6, 'HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (11, 'CARLOS H', 'CANO', 'CCANO@MAIL.COM'), (12, 'CARLOS HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (13, 'CARLOS HUGO', 'CANO', 'CCANO@MAIL.COM'), (14, 'CARLOS MARIO', 'CANO', 'CCANO@MAIL.COM'), (15, 'CARLOS H', 'CANO', 'CCANO@MAIL.COM'), (16, 'CARLOS HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (17, 'CARLOS HUGO', 'CANO', 'CCANO@MAIL.COM'), (18, 'CARLOS MARIO', 'CANO', 'CCANO@MAIL.COM'), (23, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (26, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (27, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (28, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (29, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (30, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (31, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (32, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (33, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (34, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (22, 'Carlos', 'Aristizábal García', 'carloshugo5@gmail.com')] 
+06/28/2020 12:03 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:03 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:03 PM: INFO [CursorPool.py:30] [(1, 'Juan', 'Perez', 'jperez@mail.com'), (2, 'Carlos', 'Aristizabal', 'caristi@mail.com'), (3, 'Karla', 'Garcia', 'kgarcia'), (5, 'CARLOS H', 'CANO', 'CCANO@MAIL.COM'), (8, 'CARLOS HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (9, 'CARLOS HUGO', 'CANO', 'CCANO@MAIL.COM'), (10, 'CARLOS MARIO', 'CANO', 'CCANO@MAIL.COM'), (4, 'HUGO', 'CANO', 'CCANO@MAIL.COM'), (6, 'HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (11, 'CARLOS H', 'CANO', 'CCANO@MAIL.COM'), (12, 'CARLOS HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (13, 'CARLOS HUGO', 'CANO', 'CCANO@MAIL.COM'), (14, 'CARLOS MARIO', 'CANO', 'CCANO@MAIL.COM'), (15, 'CARLOS H', 'CANO', 'CCANO@MAIL.COM'), (16, 'CARLOS HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (17, 'CARLOS HUGO', 'CANO', 'CCANO@MAIL.COM'), (18, 'CARLOS MARIO', 'CANO', 'CCANO@MAIL.COM'), (23, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (26, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (27, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (28, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (29, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (30, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (31, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (32, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (33, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (34, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (22, 'Carlos', 'Aristizábal García', 'carloshugo5@gmail.com')] 
+06/28/2020 12:03 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:03 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:03 PM: INFO [CursorPool.py:30] [(1, 'Juan', 'Perez', 'jperez@mail.com'), (2, 'Carlos', 'Aristizabal', 'caristi@mail.com'), (3, 'Karla', 'Garcia', 'kgarcia'), (5, 'CARLOS H', 'CANO', 'CCANO@MAIL.COM'), (8, 'CARLOS HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (9, 'CARLOS HUGO', 'CANO', 'CCANO@MAIL.COM'), (10, 'CARLOS MARIO', 'CANO', 'CCANO@MAIL.COM'), (4, 'HUGO', 'CANO', 'CCANO@MAIL.COM'), (6, 'HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (11, 'CARLOS H', 'CANO', 'CCANO@MAIL.COM'), (12, 'CARLOS HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (13, 'CARLOS HUGO', 'CANO', 'CCANO@MAIL.COM'), (14, 'CARLOS MARIO', 'CANO', 'CCANO@MAIL.COM'), (15, 'CARLOS H', 'CANO', 'CCANO@MAIL.COM'), (16, 'CARLOS HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (17, 'CARLOS HUGO', 'CANO', 'CCANO@MAIL.COM'), (18, 'CARLOS MARIO', 'CANO', 'CCANO@MAIL.COM'), (23, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (26, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (27, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (28, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (29, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (30, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (31, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (32, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (33, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (34, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (22, 'Carlos', 'Aristizábal García', 'carloshugo5@gmail.com')] 
+06/28/2020 12:03 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:04 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:04 PM: INFO [CursorPool.py:30] [(1, 'Juan', 'Perez', 'jperez@mail.com'), (2, 'Carlos', 'Aristizabal', 'caristi@mail.com'), (3, 'Karla', 'Garcia', 'kgarcia'), (5, 'CARLOS H', 'CANO', 'CCANO@MAIL.COM'), (8, 'CARLOS HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (9, 'CARLOS HUGO', 'CANO', 'CCANO@MAIL.COM'), (10, 'CARLOS MARIO', 'CANO', 'CCANO@MAIL.COM'), (4, 'HUGO', 'CANO', 'CCANO@MAIL.COM'), (6, 'HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (11, 'CARLOS H', 'CANO', 'CCANO@MAIL.COM'), (12, 'CARLOS HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (13, 'CARLOS HUGO', 'CANO', 'CCANO@MAIL.COM'), (14, 'CARLOS MARIO', 'CANO', 'CCANO@MAIL.COM'), (15, 'CARLOS H', 'CANO', 'CCANO@MAIL.COM'), (16, 'CARLOS HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (17, 'CARLOS HUGO', 'CANO', 'CCANO@MAIL.COM'), (18, 'CARLOS MARIO', 'CANO', 'CCANO@MAIL.COM'), (23, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (26, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (27, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (28, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (29, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (30, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (31, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (32, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (33, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (34, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (22, 'Carlos', 'Aristizábal García', 'carloshugo5@gmail.com')] 
+06/28/2020 12:04 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:06 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:06 PM: INFO [CursorPool.py:30] [(1, 'Juan', 'Perez', 'jperez@mail.com'), (2, 'Carlos', 'Aristizabal', 'caristi@mail.com'), (3, 'Karla', 'Garcia', 'kgarcia'), (5, 'CARLOS H', 'CANO', 'CCANO@MAIL.COM'), (8, 'CARLOS HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (9, 'CARLOS HUGO', 'CANO', 'CCANO@MAIL.COM'), (10, 'CARLOS MARIO', 'CANO', 'CCANO@MAIL.COM'), (4, 'HUGO', 'CANO', 'CCANO@MAIL.COM'), (6, 'HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (11, 'CARLOS H', 'CANO', 'CCANO@MAIL.COM'), (12, 'CARLOS HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (13, 'CARLOS HUGO', 'CANO', 'CCANO@MAIL.COM'), (14, 'CARLOS MARIO', 'CANO', 'CCANO@MAIL.COM'), (15, 'CARLOS H', 'CANO', 'CCANO@MAIL.COM'), (16, 'CARLOS HUMBERTO', 'CANO', 'CCANO@MAIL.COM'), (17, 'CARLOS HUGO', 'CANO', 'CCANO@MAIL.COM'), (18, 'CARLOS MARIO', 'CANO', 'CCANO@MAIL.COM'), (23, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (26, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (27, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (28, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (29, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (30, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (31, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (32, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (33, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (34, 'Carlos Hugo', 'Aristizábal García', 'carloshugo5@gmail.com'), (22, 'Carlos', 'Aristizábal García', 'carloshugo5@gmail.com')] 
+06/28/2020 12:06 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:13 PM: INFO [PersonaDao.py:16] Inicia Select 
+06/28/2020 12:13 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:13 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:13 PM: INFO [PersonaDao.py:26] Inicia Insert 
+06/28/2020 12:13 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:13 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:13 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:13 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:13 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:13 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:13 PM: INFO [PersonaDao.py:16] Inicia Select 
+06/28/2020 12:13 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:13 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:13 PM: INFO [PersonaDao.py:26] Inicia Insert 
+06/28/2020 12:13 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:13 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:13 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:13 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:13 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:13 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:13 PM: INFO [PersonaDao.py:16] Inicia Select 
+06/28/2020 12:13 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:13 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:13 PM: INFO [PersonaDao.py:26] Inicia Insert 
+06/28/2020 12:13 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:13 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:13 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:13 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:13 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:13 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:13 PM: INFO [PersonaDao.py:16] Inicia Select 
+06/28/2020 12:13 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:13 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:14 PM: INFO [PersonaDao.py:26] Inicia Insert 
+06/28/2020 12:14 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:14 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:14 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:14 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:14 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:14 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 12:14 PM: INFO [PersonaDao.py:16] Inicia Select 
+06/28/2020 12:14 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 12:14 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
