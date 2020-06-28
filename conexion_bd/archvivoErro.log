@@ -1,0 +1,12 @@
+06/28/2020 10:26 AM: INFO [PersonaDao.py:17] Inicia Select 
+06/28/2020 10:26 AM: INFO [Connection.py:36] Cursor : None 
+06/28/2020 10:26 AM: INFO [Connection.py:19] Connection:  None 
+06/28/2020 10:26 AM: INFO [Connection.py:50] Inicio para cerrar la conexion  
+06/28/2020 10:26 AM: INFO [Connection.py:51] <cursor object at 0x03532228; closed: 0> 
+06/28/2020 10:26 AM: INFO [PersonaDao.py:36] Inicia Insert 
+06/28/2020 10:26 AM: INFO [Connection.py:19] Connection:  <connection object at 0x035347E0; dsn: 'user=postgres password=xxx dbname=testdb host=127.0.0.1 port=5432', closed: 1> 
+06/28/2020 10:26 AM: INFO [Connection.py:36] Cursor : <cursor object at 0x03532228; closed: -1> 
+06/28/2020 10:26 AM: ERROR [PersonaDao.py:49] Error a la hora de realizar la insertar: cursor already closed 
+06/28/2020 10:26 AM: INFO [Connection.py:50] Inicio para cerrar la conexion  
+06/28/2020 10:26 AM: INFO [Connection.py:51] <cursor object at 0x03532228; closed: -1> 
+06/28/2020 10:26 AM: INFO [PersonaDao.py:53] Termina Insert 
