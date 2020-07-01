@@ -1,0 +1,79 @@
+06/28/2020 03:51 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 03:51 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 03:53 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 03:53 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 03:53 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 03:53 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 03:57 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 03:57 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 03:58 PM: ERROR [Connection.py:30] Erro conexion BD FATAL:  database "testdbd" does not exist
+ 
+06/28/2020 04:00 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:00 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:00 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:00 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:00 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:00 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:01 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:01 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:01 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:01 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:01 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:01 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:03 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:03 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:03 PM: ERROR [CursorPool.py:20] Error exception 'User' object has no attribute 'append' 
+06/28/2020 04:04 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:04 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:05 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:05 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:06 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:06 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:09 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:09 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:10 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:10 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:37 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:37 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:37 PM: ERROR [CursorPool.py:20] Error exception __init__() takes 2 positional arguments but 4 were given 
+06/28/2020 04:40 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:40 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:40 PM: ERROR [CursorPool.py:20] Error exception __init__() takes 2 positional arguments but 4 were given 
+06/28/2020 04:41 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:41 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:42 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:42 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:42 PM: ERROR [CursorPool.py:20] Error exception __init__() takes 2 positional arguments but 4 were given 
+06/28/2020 04:43 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:43 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:43 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:43 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:46 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:46 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:47 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:47 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:47 PM: ERROR [CursorPool.py:20] Error exception 'User' object has no attribute 'get_password' 
+06/28/2020 04:48 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:48 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:48 PM: ERROR [CursorPool.py:20] Error exception can't adapt type 'method' 
+06/28/2020 04:52 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:52 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:52 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:52 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:57 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:57 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 04:57 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 04:57 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 05:01 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 05:01 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 05:02 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 05:02 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 05:02 PM: ERROR [CursorPool.py:20] Error exception 'User' object has no attribute '_User__getid' 
+06/28/2020 05:04 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 05:04 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 05:04 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 05:04 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 05:04 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 05:04 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
+06/28/2020 05:04 PM: INFO [CursorPool.py:12] Inicio connection 
+06/28/2020 05:04 PM: INFO [CursorPool.py:16] Excuter funtion __exit__ 
